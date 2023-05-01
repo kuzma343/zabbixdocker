@@ -19,3 +19,5 @@ cd env_vars - тут змінюєш
 sudo docker-compose pull
 
 sudo docker-compose up   піднімає можна  sudo docker-compose up -d
+
+більше інфи на https://rdr-it.com/en/zabbix-monitoring-your-infrastructure-installation-and-configuration-with-docker/
